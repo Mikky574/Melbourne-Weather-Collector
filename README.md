@@ -22,7 +22,6 @@ The data is sourced from the official Bureau of Meteorology's website for Melbou
    ```bash
    python main.py
    ```
-   Alternatively, run the project from its root directory as the entry point is `main.py`.
 
 This setup will automatically create new directories in the `log` folder for each run, storing the fetched and parsed data at the specified intervals.
 
